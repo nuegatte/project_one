@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Winds of Valor",
+    "author": "Aria Nightshade",
+    "genre": "Fantasy",
+    "isBorrowed": false,
+    "borrower": "",
+    "dueDate": null
+  },
+  {
+    "id": 2,
+    "title": "Valorants in the cryous",
+    "author": "Aria Nightshade",
+    "genre": "Fantasy",
+    "isBorrowed": false,
+    "borrower": "",
+    "dueDate": null
+  },
+  {
+    "id": 3,
+    "title": "Realm of Ashes",
+    "author": "Darius Blackthorn",
+    "genre": "Fantasy",
+    "isBorrowed": false,
+    "borrower": "",
+    "dueDate": null
+  },
+  {
+    "id": 4,
+    "title": "Echoes of Tomorrow",
+    "author": "Mira Solis",
+    "genre": "Sci-fi",
+    "isBorrowed": false,
+    "borrower": "",
+    "dueDate": null
+  },
+  {
+    "id": 5,
+    "title": "Quantum Rift",
+    "author": "Elon Veritas",
+    "genre": "Sci-fi",
+    "isBorrowed": false,
+    "borrower": "",
+    "dueDate": null
+  },
+  {
+    "id": 6,
+    "title": "Circuit of Lies",
+    "author": "Nova Reyes",
+    "genre": "Sci-fi",
+    "isBorrowed": false,
+    "borrower": "",
+    "dueDate": null
+  },
+  {
+    "id": 7,
+    "title": "Haunted Hollow",
+    "author": "Lena Graves",
+    "genre": "Horror",
+    "isBorrowed": false,
+    "borrower": "",
+    "dueDate": null
+  },
+  {
+    "id": 8,
+    "title": "The Pale Watcher",
+    "author": "Dorian Crow",
+    "genre": "Horror",
+    "isBorrowed": false,
+    "borrower": "",
+    "dueDate": null
+  },
+  {
+    "id": 9,
+    "title": "Whispers in the Fog",
+    "author": "Selene Voss",
+    "genre": "Horror",
+    "isBorrowed": false,
+    "borrower": "",
+    "dueDate": null
+  }
+]

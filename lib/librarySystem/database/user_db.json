@@ -1,0 +1,39 @@
+[
+  {
+    "username": "alice",
+    "userID": 1,
+    "borrowedBooks": [],
+    "VIP": true,
+    "suspension": null,
+    "type": "member",
+    "department": "Science"
+  },
+  {
+    "username": "bob",
+    "userID": 2,
+    "borrowedBooks": [
+      {
+        "id": 101,
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "genre": "Science",
+        "isBorrowed": true,
+        "borrower": "bob",
+        "dueDate": "2025-06-01T12:00:00.000"
+      }
+    ],
+    "VIP": false,
+    "suspension": "2025-06-10T00:00:00.000",
+    "type": "member",
+    "department": "Arts"
+  },
+  {
+    "username": "carol",
+    "userID": 3,
+    "borrowedBooks": [],
+    "VIP": false,
+    "suspension": null,
+    "type": "admin",
+    "department": "Library"
+  }
+]
